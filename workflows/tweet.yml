@@ -2,7 +2,7 @@ name: Post tweet
 
 on:
   schedule:
-  - cron: "1 * * * *"
+  - cron: "13 5 * * *"
 
 jobs:
   run:
